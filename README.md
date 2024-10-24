@@ -1,5 +1,5 @@
 # restart
-I simple tool for auto restarting an executable on failure with a backup executable:
+I simple tool for auto restarting a process on failure with an optional backup process command:
 
 * Install with `go install github.com/jptrs93/restart@main`
 * Execute with a primary command and an optional secondary command for example: 
